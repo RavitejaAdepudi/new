@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/RavitejaAdepudi/newbackup.git
+	fetch = +refs/*:refs/*
+	mirror = true
+[branch "master"]
+	remote = https://github.com/RavitejaAdepudi/backup11.git
+	merge = refs/heads/master
