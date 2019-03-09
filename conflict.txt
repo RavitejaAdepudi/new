@@ -1,0 +1,11 @@
+
+ i am good 
+
+ i am good i am bad  
+<<<<<<< HEAD
+some thing changed
+=======
+ 
+ changing something
+
+>>>>>>> 4bdafb12dcb8ca0c9d851d08d1e3bd9491b3f94b
